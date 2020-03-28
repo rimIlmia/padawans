@@ -205,7 +205,7 @@ Afficher la liste des modules.
 
 Affiche les informations d'un module, faut renseigner l'identifiant du module.
 
-### 🙉 :hear_no_evil:	Front-end
+#### 🙉 Front-end
 
 Premiere idée d'une maquette faite sur papier [voici à quoi ça ressemble](/assets/images/)
 

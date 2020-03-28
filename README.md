@@ -213,4 +213,12 @@ La date prévu pour commmencer le developpement de la partie front-end est  le 2
 
 ---
 
-#### :email: Contacts
+#### :princess: Contacts
+
+* kula.jega@gmail.com
+
+* rim.chakroun.pro@gmail.com
+
+* shelleycavaness@gmail.com
+
+

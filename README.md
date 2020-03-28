@@ -207,7 +207,7 @@ Affiche les informations d'un module, faut renseigner l'identifiant du module.
 
 #### 🙉 Front-end
 
-Premiere idée d'une maquette faite sur papier [voici à quoi ça ressemble](/assets/images/)
+Premiere idée d'une maquette faite sur papier :point_right: [Cliquez pour voir](/assets/images/)
 
 La date prévu pour commmencer le developpement de la partie front-end est  📆 **le 20/04/2020** 📆 
 

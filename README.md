@@ -209,7 +209,7 @@ Affiche les informations d'un module, faut renseigner l'identifiant du module.
 
 Premiere idée d'une maquette faite sur papier [voici à quoi ça ressemble](/assets/images/)
 
-La date prévu pour commmencer le developpement de la partie front-end est  le 20/04/2020
+La date prévu pour commmencer le developpement de la partie front-end est  📆 **le 20/04/2020** 📆 
 
 ---
 
